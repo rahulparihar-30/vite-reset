@@ -1,0 +1,27 @@
+
+{
+  "name": "vite-reset",
+  "version": "1.0.0",
+  "description": "Reset React Vite projects to a clean starter template while preserving original files.",
+  "type": "module",
+  "main": "bin/cli.js",
+  "bin": {
+    "vite-reset": "./bin/cli.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "keywords": [
+    "vite",
+    "react",
+    "reset",
+    "starter",
+    "cli",
+    "boilerplate"
+  ],
+  "author": "Rahul Parihar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
